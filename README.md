@@ -1,4 +1,4 @@
-About Me
+# About Me
 Computer Science student at the University of Luxembourg
 
 ## Languages
