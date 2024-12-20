@@ -2,7 +2,7 @@
 Computer Science student at the University of Luxembourg
 
 ## Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikTornes&layout=compact&theme=radical&hide=jupyter%20notebook)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TarikTornes&layout=compact&theme=light&hide=jupyter%20notebook)
 
 ## My Small Projects
 [![fan_control](https://github-readme-stats.vercel.app/api/pin/?username=TarikTornes&repo=fan_control&theme=light)](https://github.com/TarikTornes/fan_control)
