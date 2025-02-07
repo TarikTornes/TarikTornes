@@ -7,6 +7,7 @@ Computer Science student at the University of Luxembourg
 ## My Small Projects
 [![fan_control](https://github-readme-stats.vercel.app/api/pin/?username=TarikTornes&repo=fan_control&theme=light)](https://github.com/TarikTornes/fan_control)
 [![web_RAG](https://github-readme-stats.vercel.app/api/pin/?username=TarikTornes&repo=web_RAG&theme=light)](https://github.com/TarikTornes/web_RAG)
+[![iot_project](https://github-readme-stats.vercel.app/api/pin/?username=TarikTornes&repo=iot_project&theme=light)](https://github.com/TarikTornes/iot_project)
 
 ## University & Learning Journey
 [![FLeSA](https://github-readme-stats.vercel.app/api/pin/?username=TarikTornes&repo=fan_control&theme=light)](https://github.com/TarikTornes/FLeSA)
